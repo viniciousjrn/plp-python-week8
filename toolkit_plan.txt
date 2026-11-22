@@ -1,0 +1,20 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. Chosen Tools & Descriptions:
+- Tool 1: To-Do List Manager — Lets the user add, view, and remove tasks from a running list during the session.
+- Tool 2: Number Guessing Game — Picks a random secret number between 1 and 20 and lets the user guess until they get it right.
+- Tool 3: Simple Calculator — Takes two numbers and an operator (+, -, *, /) and calculates the result safely.
+
+2. Exact Menu Text:
+=== Personal Mini-Toolkit ===
+1. To-Do List Manager
+2. Number Guessing Game
+3. Simple Calculator
+4. Quit
+Choose an option (1-4):
+
+3. Python Concepts Used by Each Tool:
+- Main Menu Loop: while loop, if / elif / else conditionals, input/output, and f-strings.
+- Tool 1 (To-Do List Manager): dynamic list (append, pop), while loop, if / elif / else conditionals, and f-strings.
+- Tool 2 (Number Guessing Game): random module, while loop, if / elif / else conditionals, and f-strings.
+- Tool 3 (Simple Calculator): variables, input/output, if / elif / else conditionals, try/except error handling, and f-strings.
